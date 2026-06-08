@@ -1,0 +1,9 @@
+# forge_skill_catalog.yaml
+# Skill definitions loaded by SkillExecutor at runtime.
+# Schema reference: .opencode/specs/FORGE_SYSTEM_PLANNING_SPEC-V3.md
+#
+# Each skill entry must have:
+#   skill_id, name, trigger_phrases, description,
+#   permissions, required_inputs, execution_steps
+
+skills: []
